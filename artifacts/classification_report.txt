@@ -1,0 +1,13 @@
+Smart Text Classifier — LogisticRegression (tuned)
+best params: {'clf__C': 5.0}
+
+              precision    recall  f1-score   support
+
+   Complaint     1.0000    1.0000    1.0000        28
+     Inquiry     1.0000    1.0000    1.0000        28
+    Feedback     1.0000    1.0000    1.0000        28
+       Other     1.0000    1.0000    1.0000        28
+
+    accuracy                         1.0000       112
+   macro avg     1.0000    1.0000    1.0000       112
+weighted avg     1.0000    1.0000    1.0000       112
